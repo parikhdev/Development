@@ -26,3 +26,5 @@ def log_call(function):
 def add(a,b):
     return a+b
 res = add(5,5)
+
+# print(dir(wraps)) checking the functions available in the wraps module
